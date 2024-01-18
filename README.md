@@ -1,6 +1,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Моя статистика</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=BuninSil&theme=radical&column=9&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://komarev.com/ghpvc/?username=buninsil"/>
+  
 </a>
 
 
