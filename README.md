@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=buninsil)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BuninSil&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <!--
 **BuninSil/BuninSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
