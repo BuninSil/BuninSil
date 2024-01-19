@@ -11,4 +11,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuninSil&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-[![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=BuninSil&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
